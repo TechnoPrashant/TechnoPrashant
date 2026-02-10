@@ -1,18 +1,79 @@
-# 💫 About Me:
-<br># 👋 Hi, I'm Prashant Padmani<br><br>🚀 Senior Flutter Architect | AI Product Builder | NFC & BLE Specialist | Automation Engineer  <br>I design and build scalable mobile, web, and automation systems that combine **Flutter engineering, AI integration, hardware communication (NFC/BLE), and business workflow automation**.<br>With 12+ years of software experience and 7+ years dedicated to Flutter, I specialize in building production-ready applications that solve real business problems.<br><br>---<br><br># 🧠 What I Do<br><br>## 📱 Cross-Platform App Architecture<br>- Flutter apps for Android, iOS, Web & Desktop<br>- Clean Architecture, scalable state management (Riverpod, Provider, GetX)<br>- Custom Flutter plugins (native SDK wrapping, NFC, encryption layers)<br>- Performance optimization & production deployment<br><br>## 🔐 NFC, BLE & Hardware Integration Expert<br>- NAC1080 NFC tag integration<br>- Secure APDU communication<br>- AES encryption, session key handling<br>- Custom Flutter plugins wrapping native SDKs<br>- Smart lock / IoT device control systems<br><br>## 🤖 AI Product Development<br>- AI Photo & Video generation apps<br>- Prompt engineering for consumer AI applications<br>- AI-based baby photo & creative editor apps<br>- AI feature monetization strategy<br>- Image & video model integration<br>- AI UX optimization for engagement & retention<br><br>## ⚙️ Automation & n8n Workflow Engineering<br>- Business automation systems using n8n<br>- WhatsApp automation via Twilio<br>- Email automation with Gmail + Google Sheets<br>- Lead nurturing drip campaigns<br>- Hospitality & nightlife workflow automation systems<br>- Conditional triggers, multi-step flows, and staff notification systems<br>- API orchestration between services<br><br>I build automation that reduces manual operations and increases conversion efficiency.<br><br>---<br><br># 🛠 Tech Stack<br><br>### Core<br>- Flutter & Dart<br>- Java / Kotlin (Android Native)<br>- Swift / Objective-C++ (iOS Native)<br>- REST APIs & WebSockets<br><br>### AI & Automation<br>- Prompt Engineering<br>- AI Image/Video Model Integration<br>- n8n Automation Workflows<br>- Twilio (WhatsApp API)<br>- Gmail & Google Sheets API<br>- Webhook-based automation systems<br><br>### Hardware & Security<br>- NFC (Core NFC / Android NFC)<br>- BLE Communication<br>- AES Encryption<br>- Custom Protocol Implementation<br><br>---<br><br># ⭐ Highlighted Work<br><br>- 📦 **Sizer** – Flutter responsive UI utility package  <br>- 🔐 NFC Smart Lock Control Systems  <br>- 🤖 AI Baby Photo & Video Editing Applications  <br>- ⚙️ WhatsApp Automation Panel (n8n + Twilio)  <br>- 📧 Email Drip Campaign Automation Systems  <br>- 🌐 Flutter Web Freelancer Profile Demo  <br><br>---<br><br># 📈 What Makes Me Different<br><br>✔ I combine **mobile engineering + AI product thinking + automation systems**  <br>✔ I build end-to-end solutions (App + Backend + Automation + Deployment)  <br>✔ I align technical architecture with business outcomes  <br>✔ I focus on production-ready systems, not just demos  <br><br>---<br><br># 📫 Let's Connect<br><br>📧 Email: prashant09mca@gmail.com  <br>🔗 LinkedIn: https://www.linkedin.com/in/prashant-padmani-14b55649/  <br><br><br>---<br><br># 💡 Currently Exploring<br><br>- Advanced AI-driven consumer applications  <br>- Secure NFC protocol implementation without native SDK dependency  <br>- Scalable automation systems for agencies and service businesses  <br>- AI + Automation combined product ecosystems  <br><br>---<br><br>Thanks for visiting my profile 👨‍💻  <br>If you're building something ambitious — let's collaborate.<br>
+# 💫 About Me
 
+# 👋 Hi, I'm Prashant Padmani
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/prashant.padmani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tech_p1136/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashant-padmani-14b55649/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashant09mca@gmail.com) 
+🚀 **Senior Flutter Architect | AI Product Engineer | NFC/BLE & Automation Specialist**
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TechnoPrashant&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TechnoPrashant&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoPrashant&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+With 12+ years in software engineering (7+ years in Flutter), I design and build **production-ready mobile, web, AI-powered, and automation systems** that solve real-world business problems.
+
+I specialize in combining:
+
+📱 Cross-Platform Engineering  
+🤖 AI Product Development  
+🔐 Secure NFC/BLE IoT Systems  
+⚙️ Workflow Automation (n8n, Twilio, APIs)  
+
+into scalable end-to-end solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TechnoPrashant&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Core Expertise
+
+**Flutter Architecture**  
+Android • iOS • Web • Desktop • Clean Architecture • Riverpod / Provider / GetX • Custom Native Plugins  
+
+**NFC / BLE & Security**  
+NAC1080 • Secure APDU • AES Encryption • Session Keys • Smart Lock & IoT Systems  
+
+**AI Product Engineering**  
+AI Photo & Video Apps • Prompt Engineering • AI UX Optimization • Model Integration • Monetization Strategy  
+
+**Automation Systems**  
+n8n Workflows • WhatsApp (Twilio) • Gmail & Google Sheets Automation • Drip Campaigns • API Orchestration  
+
+---
+
+## 🛠 Tech Ecosystem
+
+**Languages & Frameworks**  
+Flutter, Dart, Java, Kotlin, Swift, PHP, Node.js, FastAPI  
+
+**Cloud & Backend**  
+AWS, Google Cloud, Azure, Firebase, Docker, REST APIs, WebSockets  
+
+**Databases**  
+MySQL, MongoDB, DynamoDB, Realm  
+
+**DevOps & Tools**  
+Git, GitHub Actions, GitLab, Bitbucket, Postman, Swagger  
+
+**Hardware & Edge**  
+NFC (Core NFC / Android NFC), BLE, Raspberry Pi  
+
+---
+
+## ⭐ Signature Work
+
+- 📦 **Sizer** – Responsive Flutter UI package  
+- 🔐 NFC Smart Lock Control Systems  
+- 🤖 AI Baby Photo & Video Applications  
+- ⚙️ WhatsApp & Business Automation Panels  
+- 📧 Lead & Email Drip Automation Systems  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-padmani-14b55649/)  
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prashant09mca@gmail.com)
+
+---
+
+### 💡 Engineering Philosophy
+> Build scalable. Secure deeply. Automate intelligently. Ship production-ready systems.
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=TechnoPrashant&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TechnoPrashant)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoPrashant&layout=compact)
