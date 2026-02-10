@@ -36,7 +36,7 @@ n8n Workflows • WhatsApp (Twilio) • Gmail & Google Sheets Automation • Dri
 ## 🛠 Tech Ecosystem
 
 **Languages & Frameworks**  
-Flutter, Dart, Java, Kotlin, Swift, PHP, Node.js, FastAPI  
+Flutter, Dart, Java, Kotlin, Swift, PHP, Node.js, FastAPI, Python 
 
 **Cloud & Backend**  
 AWS, Google Cloud, Azure, Firebase, Docker, REST APIs, WebSockets  
